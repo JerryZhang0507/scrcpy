@@ -1,4 +1,4 @@
-# apt install mingw-w64 mingw-w64-tools
+# apt install mingw-w64 mingw-w64-tools test
 
 [binaries]
 name = 'mingw'
